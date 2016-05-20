@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="customTheme" parent="@style/Theme.AppCompat">
+    <item name="colorPrimary">#D87373</item>
+    <item name="colorPrimaryDark">#D87373</item>
+    <item name="android:navigationBarColor">#D87373</item>
+</style>
+</resources>
